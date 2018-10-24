@@ -1,0 +1,9 @@
+NODE: 7
+NODE: 3
+LEAF: r 1
+LEAF: d 2
+NODE: 4
+LEAF: e 2
+NODE: 2
+LEAF: c 1
+LEAF: o 1
